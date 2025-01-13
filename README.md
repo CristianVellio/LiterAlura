@@ -1,4 +1,4 @@
-# LiterAlura 📚
+# LiterAlura 📖
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b9507675-876c-4326-b198-77eb1f6ad705" alt="literatura" width="200" height="200">
