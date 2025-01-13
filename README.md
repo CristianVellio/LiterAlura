@@ -87,8 +87,7 @@ mvn spring-boot:run
 
 ## Características
 
-- Gestión de libros (crear, leer, actualizar, eliminar)
-- Registro de autores
+- Gestión de libros
 - Soporte para múltiples idiomas
 - Seguimiento del número de descargas
 - Interfaz de línea de comandos interactiva
